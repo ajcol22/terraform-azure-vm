@@ -1,2 +1,2 @@
 # terraform-azure-vm
-deploy Azure VM using Terraform
+How to deploy Azure VM using Terraform
